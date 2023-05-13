@@ -1,4 +1,4 @@
-package TestingProje3;
+package TestingProject;
 
 import Utility.BaseDriver;
 import org.openqa.selenium.By;
